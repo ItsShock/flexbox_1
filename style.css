@@ -1,0 +1,14 @@
+.b_div{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.s_div{
+    width: 50%;
+    height: 50%;
+    background-color: #fff;
+
+}
